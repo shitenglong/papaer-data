@@ -1,5 +1,5 @@
 采样日期,站点号,经度,纬度,采样层,样品编号,样品过滤体积,黑碳浓度,总的吸收波长指数,,,,,,,
-DATE,site ,longitude,latitude,layer,sample name,V_filter(ml),BC,angst_tot,snow depth,denisty (g/ml),snow temperature,,,, 
+DATE,site number ,longitude,latitude,layer,sample name,V_filter(ml),BC (ng g-1),angst_tot,snow depth (cm),denisty (g/ml),snow temperature (℃),,,, 
 20180109,104,82.62972222,45.57888889,1,Q398B,20,594.5067369,3.31,8,20,-12,,,,
 ,105,83.055,45.69527778,1,Q399N,40,297.8809933,2.475,22,25,-9,,,,
 ,,,,2,Q400N,20,879.9466162,2.055,,25,-11,,,,
